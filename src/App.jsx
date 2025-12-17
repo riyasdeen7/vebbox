@@ -5,7 +5,7 @@ import Front from './Front'
 function App() {
   return (
     <>
-    <h1>DEEN</h1>
+    <h1>GOKUL</h1>
     </>
   )
 }
