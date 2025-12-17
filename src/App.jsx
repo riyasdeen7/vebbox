@@ -5,7 +5,7 @@ import Front from './Front'
 function App() {
   return (
     <>
-    <h1>poda punda</h1>
+    <h1>FUCK</h1>
     </>
   )
 }
